@@ -22,5 +22,5 @@ $ conda activate <your_env_name>
 
 If Jupyter Lab is not using your kernel, add the kernel.
 ```sh-session
-(<your_env_name>)$ jupyter lab ipython kernel install --user --name=<any_name_for_kernel>
+(<your_env_name>)$ ipython kernel install --user --name=<any_name_for_kernel>
 ```
